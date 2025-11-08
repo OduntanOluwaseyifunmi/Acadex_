@@ -30,17 +30,10 @@ This document also provides a foundation for scalability, security, maintenance,
 
 # Wireframe 
 
-<p align="center">
-  <img src="./Wireframe Image.png" alt="Wireframe" width="300">
-</p>
+<img src="Images/Wireframe Images.png" alt="Wireframe Images">
 
-<!-- Side by side images -->
-<img src="image1.png" width="400"> <img src="image2.png" width="400">
 
-<!-- With a link -->
-<a href="https://example.com">
-  <img src="./logo.png" alt="Logo">
-</a>
+[Link to Wireframe](https://www.figma.com/design/1Oyl1dz0oDiai4dyZlF8fW/Acadex-Wireframe?node-id=0-1&t=eVPPtMnryiZY0YmP-1)
 
 # Technology Stack
 
