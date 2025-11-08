@@ -47,11 +47,74 @@
 
 ## Technologies 
 
-**Cloud Infrastructure:** Ensures 99.9% uptime and lightning-fast access from anywhere in Nigeria
 
+## Frontend Technologies
 
+| Technology | Purpose |
+|------------|---------|
+| **Next.js** | React framework with SSR, routing, and API routes |
+| **TypeScript** | Type safety and error prevention |
+| **Zustand** | Lightweight client state management |
+| **React Query** | Server state and API data management |
+| **Tailwind CSS** | Utility-first styling framework |
+| **shadcn/ui + Radix UI** | Accessible, customizable UI components |
+| **React Hook Form** | High-performance form handling |
+| **Recharts** | Data visualization and charts |
+| **React PDF** | PDF generation and preview |
+| **Jest + React Testing Library** | Testing framework |
 
-**AI-Powered Processing:** Automatically handles routine tasks, reducing human error and processing time
+---
 
-**Advanced Security:** Protects sensitive academic data with bank-level encryption
+## Backend Technologies
+
+| Technology | Purpose |
+|------------|---------|
+| **Node.js** | JavaScript runtime for backend services |
+| **Next.js API Routes** | Backend API framework |
+| **MongoDB** | NoSQL database for flexible data storage |
+| **JWT + bcrypt** | Authentication and password security |
+| **Postman** | API documentation and testing |
+
+---
+
+## Microservices
+
+| Service | Responsibility |
+|---------|---------------|
+| **Authentication Service** | User login, registration, access control |
+| **Transcript Service** | Generate and deliver transcripts |
+| **Notification Service** | Email, SMS, and push notifications |
+| **Verification Service** | Credential verification and validation |
+| **API Gateway** | Request routing, rate limiting, load balancing |
+| **Analytics Service** | Tracking, reporting, and insights |
+
+---
+
+## Infrastructure & DevOps
+
+| Technology | Purpose |
+|------------|---------|
+| **AWS** | Cloud hosting, storage, and managed services |
+| **Docker** | Containerization for consistency |
+| **ECS/Kubernetes** | Container orchestration and auto-scaling |
+| **GitHub Actions** | CI/CD automated deployment pipeline |
+| **RabbitMQ/Kafka** | Message queue for async processing |
+| **DataDog/Sentry** | Application monitoring and error tracking |
+| **CloudWatch** | Infrastructure monitoring |
+
+---
+
+## Third-Party Services
+
+| Service | Purpose |
+|---------|---------|
+| **SendGrid** | Email delivery |
+| **Termii/Twilio** | SMS notifications |
+| **Paystack** | Payment processing |
+| **Cloudflare** | CDN and DDoS protection |
+| **AWS S3** | Document storage (transcripts, certificates) |
+| **Elasticsearch** | Full-text search for projects |
+| **Redis** | Caching and session storage |
+
+---
 
