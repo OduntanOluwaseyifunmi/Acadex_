@@ -27,6 +27,21 @@ This document also provides a foundation for scalability, security, maintenance,
 
 **Support and Maintenance Team:** Handles user issues, technical bugs, and ensures operational continuity.
 
+
+# Wireframe 
+
+<p align="center">
+  <img src="./Wireframe Image.png" alt="Wireframe" width="300">
+</p>
+
+<!-- Side by side images -->
+<img src="image1.png" width="400"> <img src="image2.png" width="400">
+
+<!-- With a link -->
+<a href="https://example.com">
+  <img src="./logo.png" alt="Logo">
+</a>
+
 # Technology Stack
 
 **Frontend Architecture**
