@@ -30,7 +30,7 @@ This document also provides a foundation for scalability, security, maintenance,
 
 # Wireframe 
 
-<img src="Images/Wireframe Images.png" alt="Wireframe Images">
+**The Link below shows the wireframe of the project.**
 
 
 [Link to Wireframe](https://www.figma.com/design/1Oyl1dz0oDiai4dyZlF8fW/Acadex-Wireframe?node-id=0-1&t=eVPPtMnryiZY0YmP-1)
